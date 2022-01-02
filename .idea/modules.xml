@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/content-service/content-service.iml" filepath="$PROJECT_DIR$/server/content-service/content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/server/discovery-server/discovery-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/server/blog-service/post-service.iml" filepath="$PROJECT_DIR$/server/blog-service/post-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/post-service/post-service.iml" filepath="$PROJECT_DIR$/server/post-service/post-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/user-service/user-service.iml" filepath="$PROJECT_DIR$/server/user-service/user-service.iml" />
     </modules>

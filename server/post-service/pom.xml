@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.5.5</version>
+        <version>2.6.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.bloggie</groupId>
-    <artifactId>blog-service</artifactId>
+    <groupId>com.rivico</groupId>
+    <artifactId>post-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>blog-service</name>
-    <description>blog-service</description>
+    <name>post-service</name>
+    <description>post-service</description>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2020.0.4</spring-cloud.version>
