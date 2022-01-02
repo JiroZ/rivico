@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.GetMapping" />
+    </list>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="FLOW" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/server/services/blog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/services/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/server/services/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/services/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/services/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/server/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/server/blog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/server/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/server/chat-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+server:
+  port: 8989
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - PATCH
+              - OPTIONS
+      routes:
+        - id: blog-service
+          uri: lb://POST-SERVICE
+          predicates:
+            - Path=/blog/**
+        - id: user-service
+          uri: lb://USER-SERVICE
+          predicates:
+            - Path=/user/**
+        - id: content-service
+          uri: lb://CONTENT-SERVICE
+          predicates:
+            - Path=/**
