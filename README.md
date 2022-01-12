@@ -21,7 +21,7 @@
 - Should have a full fleshed working chat system using Spring and rSocket.
 - Need a rework on UI design of the whole app. 
 - Need a posts management model using machine learning and need to develop a saperate microservice for that python or kotlin if possible.
-- Need an implementation of cloud at client side for privacy orientation (Please approach for this requirement).
+- Need an implementation of cloud at client side for privacy orientation (Please approach us for this requirement).
 - Working of an proper encryption and decryption system throughout client and server.
 - Proper implementation of global search.
 - Implementation of multiple type of content workings such as 3D Images, 3D Videos, AR, VR, Podcast, Audio Files and many more.
